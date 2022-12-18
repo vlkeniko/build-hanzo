@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/build-hanzo/static/css/main.3320e2b7.css",
+    "main.js": "/build-hanzo/static/js/main.4a5e0abc.js",
+    "static/js/498.5b528672.chunk.js": "/build-hanzo/static/js/498.5b528672.chunk.js",
+    "static/js/703.39a148d8.chunk.js": "/build-hanzo/static/js/703.39a148d8.chunk.js",
+    "static/js/598.2eede956.chunk.js": "/build-hanzo/static/js/598.2eede956.chunk.js",
+    "static/js/787.4eb20b01.chunk.js": "/build-hanzo/static/js/787.4eb20b01.chunk.js",
+    "service-worker.js": "/build-hanzo/service-worker.js",
+    "static/media/list-icon-blue.svg": "/build-hanzo/static/media/list-icon-blue.0646efcb6133c10689f81e8d9a3da848.svg",
+    "static/media/arrow.svg": "/build-hanzo/static/media/arrow.2d1d3aae1180a9258a72666f7808c3fa.svg",
+    "index.html": "/build-hanzo/index.html",
+    "static/media/plus.svg": "/build-hanzo/static/media/plus.fc97cfc2d0948fad17b1.svg",
+    "static/media/big-plus.svg": "/build-hanzo/static/media/big-plus.4c0dedaae269b9f5eecfb3852237d70f.svg",
+    "static/media/back.svg": "/build-hanzo/static/media/back.8d87c6267d4ef3fa231edf6d3be1b04a.svg",
+    "static/media/minus.svg": "/build-hanzo/static/media/minus.fccc12e408e4bcdaad90.svg",
+    "main.3320e2b7.css.map": "/build-hanzo/static/css/main.3320e2b7.css.map",
+    "main.4a5e0abc.js.map": "/build-hanzo/static/js/main.4a5e0abc.js.map",
+    "498.5b528672.chunk.js.map": "/build-hanzo/static/js/498.5b528672.chunk.js.map",
+    "703.39a148d8.chunk.js.map": "/build-hanzo/static/js/703.39a148d8.chunk.js.map",
+    "598.2eede956.chunk.js.map": "/build-hanzo/static/js/598.2eede956.chunk.js.map",
+    "787.4eb20b01.chunk.js.map": "/build-hanzo/static/js/787.4eb20b01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3320e2b7.css",
+    "static/js/main.4a5e0abc.js"
+  ]
+}
