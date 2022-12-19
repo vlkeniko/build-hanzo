@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/build-hanzo/static/css/main.3320e2b7.css",
-    "main.js": "/build-hanzo/static/js/main.4a5e0abc.js",
+    "main.js": "/build-hanzo/static/js/main.b1f93dc0.js",
     "static/js/498.5b528672.chunk.js": "/build-hanzo/static/js/498.5b528672.chunk.js",
     "static/js/703.39a148d8.chunk.js": "/build-hanzo/static/js/703.39a148d8.chunk.js",
     "static/js/598.2eede956.chunk.js": "/build-hanzo/static/js/598.2eede956.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/back.svg": "/build-hanzo/static/media/back.8d87c6267d4ef3fa231edf6d3be1b04a.svg",
     "static/media/minus.svg": "/build-hanzo/static/media/minus.fccc12e408e4bcdaad90.svg",
     "main.3320e2b7.css.map": "/build-hanzo/static/css/main.3320e2b7.css.map",
-    "main.4a5e0abc.js.map": "/build-hanzo/static/js/main.4a5e0abc.js.map",
+    "main.b1f93dc0.js.map": "/build-hanzo/static/js/main.b1f93dc0.js.map",
     "498.5b528672.chunk.js.map": "/build-hanzo/static/js/498.5b528672.chunk.js.map",
     "703.39a148d8.chunk.js.map": "/build-hanzo/static/js/703.39a148d8.chunk.js.map",
     "598.2eede956.chunk.js.map": "/build-hanzo/static/js/598.2eede956.chunk.js.map",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.3320e2b7.css",
-    "static/js/main.4a5e0abc.js"
+    "static/js/main.b1f93dc0.js"
   ]
 }
